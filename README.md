@@ -10,7 +10,7 @@ Worked in the capacity of Project Manager and Business Analyst in different team
 ## Toolbox 🧰
 <img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/asana.png" alt="Asana" width="50" height="50"/><img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/jira.png" alt="Jira" width="50" height="50"/><img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/trello.png" alt="Trello" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/notion.png" alt="notion"/>
 <img width="50" height="50" src="https://img.icons8.com/office/50/doughnut-chart--v1.png" alt="LucidChart"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/microsoft-visio.png" alt="microsoft-visio"/><img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="Mongodb"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-regular-tal-revivo.png" alt="Django"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="Mongodb"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-regular-tal-revivo.png" alt="Django"/><img width="48" height="48" src="https://img.icons8.com/color/48/slack.png" alt="slack"/><img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/zoom.png" alt="zoom"/>
 
 
 ### Professional Experience:
@@ -38,4 +38,4 @@ Worked in the capacity of Project Manager and Business Analyst in different team
 
 Feel free to explore my repositories to witness these technologies in action!
 
-**If you have any inquiries or would like to get in touch, please feel free to reach me at aaamirshehzad.7033@gmail.com. I look forward to hearing from you!**
+**Note; If you have any inquiries or would like to get in touch, please feel free to reach me at aaamirshehzad.7033@gmail.com. I look forward to hearing from you!**
