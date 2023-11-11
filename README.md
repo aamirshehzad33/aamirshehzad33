@@ -8,7 +8,7 @@ Expertise in business process understanding, Requirements Analysis, Process impr
 Worked in the capacity of Project Manager and Business Analyst in different teams and managed sprints, Project schedule, Release activities and facilitated scrum events. Earlier worked as a Software Engineer and has extensive experience in Python, Node JS, PHP, Angular, React.JS, functional, regression, system, integration, load & performance testing.
 
 ## Toolbox 🧰
-<img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/main/icons/asana.png" alt="JavaScript" width="50" height="50"/> 
+<img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/asana.png" alt="Asana" width="50" height="50"/> 
 
 ### Professional Experience:
 - **Project Management Tools:** [Jira, Asana, Notion, ClickUp, Trello, 37Signals]
