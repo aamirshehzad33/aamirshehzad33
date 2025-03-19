@@ -8,29 +8,30 @@
 
 # Frontend Development
 
-🔹 React.js  <br>   🔹 Next.js <br>
-🔹 Vue.js <br>
-🔹 TypeScript <br>
-🔹 Redux <br>
-🔹 RESTful API <br>
-🔹 HTML5 & CSS3 <br>
-🔹 SCSS & Bootstrap <br>
-🔹 Material UI <br>
-🔹 Tailwind CSS <br>
-🔹 Rizz UI & Shadcn UI
+⚛️  React.js  <br>    🚀  Next.js <br>
+🟩 Vue.js <br>
+ 🟦 TypeScript <br>
+🟣 Redux <br>
+ 🌐 RESTful API <br>
+ 🎨 HTML5 & CSS3 <br>
+ 💅 SCSS & Bootstrap <br>
+🎨 Material UI <br>
+ 🌀 Tailwind CSS <br>
+ ✨ Rizz UI <br>
+  🌑 Shadcn UI
 
 # Backend Development
 
-🔹 Node.js <br>
-🔹 Nest.js <br>
-🔹 Nuxt.js <br>
-🔹 Express.js <br>
-🔹 SQL, MongoDB & PostgreSQL <br>
-🔹 Supabase & Firebase <br>
-🔹 Amazon Web Services (AWS) <br>
-🔹 Azure & Docker <br>
-🔹 JWT Authentication <br>
-🔹 Heroku & Ant Design <br>
+🟢 Node.js <br>
+ 🔴 Nest.js <br>
+ 🔵 Nuxt.js <br>
+ 🚀 Express.js <br>
+🛢️ SQL, MongoDB & PostgreSQL <br>
+ 🔥  Supabase & Firebase <br>
+☁ Amazon Web Services (AWS) <br>
+ 🐳 Azure & Docker <br>
+ 🔐 JWT Authentication <br>
+🎛 Heroku & Ant Design <br>
 
 # 🌟 Why Work With Me?
 
