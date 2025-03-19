@@ -4,43 +4,43 @@
 
 🛠 Tech Stack & Expertise
 
-Frontend Development
+# Frontend Development
 
-🔹 React.js 
-🔹 Next.js
-🔹 Vue.js
-🔹 TypeScript
-🔹 Redux
-🔹 RESTful API
-🔹 HTML5 & CSS3
-🔹 SCSS & Bootstrap
-🔹 Material UI
-🔹 Tailwind CSS
+🔹 React.js <br>
+🔹 Next.js <br>
+🔹 Vue.js <br>
+🔹 TypeScript <br>
+🔹 Redux <br>
+🔹 RESTful API <br>
+🔹 HTML5 & CSS3 <br>
+🔹 SCSS & Bootstrap <br>
+🔹 Material UI <br>
+🔹 Tailwind CSS <br>
 🔹 Rizz UI & Shadcn UI
 
-Backend Development
+# Backend Development
 
-🔹 Node.js
-🔹 Nest.js
-🔹 Nuxt.js
-🔹 Express.js
-🔹 SQL, MongoDB & PostgreSQL
-🔹 Supabase & Firebase
-🔹 Amazon Web Services (AWS)
-🔹 Azure & Docker
-🔹 JWT Authentication
-🔹 Heroku & Ant Design
+🔹 Node.js <br>
+🔹 Nest.js <br>
+🔹 Nuxt.js <br>
+🔹 Express.js <br>
+🔹 SQL, MongoDB & PostgreSQL <br>
+🔹 Supabase & Firebase <br>
+🔹 Amazon Web Services (AWS) <br>
+🔹 Azure & Docker <br>
+🔹 JWT Authentication <br>
+🔹 Heroku & Ant Design <br>
 
-🌟 Why Work With Me?
+# 🌟 Why Work With Me?
 
-✅ Technical Excellence – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions.
-✅ Full-Stack Development – Experience in both frontend and backend, creating seamless web applications.
-✅ Modern Web Architecture – Strong understanding of distributed systems, databases, and performance optimization.
-✅ User-Centric Approach – Prioritizing UI/UX to create intuitive and engaging applications.
-✅ Problem-Solving & Analytical Skills – Quick and effective resolution of development challenges.
-✅ Professional Communication – Clear and efficient collaboration with teams and clients.
+✅ Technical Excellence – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions. <br>
+✅ Full-Stack Development – Experience in both frontend and backend, creating seamless web applications. <br>
+✅ Modern Web Architecture – Strong understanding of distributed systems, databases, and performance optimization. <br>
+✅ User-Centric Approach – Prioritizing UI/UX to create intuitive and engaging applications. <br>
+✅ Problem-Solving & Analytical Skills – Quick and effective resolution of development challenges. <br>
+✅ Professional Communication – Clear and efficient collaboration with teams and clients. <br>
 ✅ Continuous Learning – Staying ahead with the latest tech trends and best practices.
 
-💡 Let's Collaborate!
+# 💡 Let's Collaborate!
 
 If you're looking for a dedicated developer who can bring your vision to life, let's connect! I'm open to new projects, challenges, and opportunities to create something amazing together.
