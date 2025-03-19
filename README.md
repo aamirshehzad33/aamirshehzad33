@@ -6,7 +6,7 @@
 
 Frontend Development
 
-🔹 React.js
+🔹 React.js 
 🔹 Next.js
 🔹 Vue.js
 🔹 TypeScript
