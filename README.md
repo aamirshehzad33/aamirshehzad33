@@ -1,41 +1,64 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Aamir Shehzad!
+React.js, Next.js, Vue.js, Node Developer | Business Analysis Expert 
 
-A highly accomplished Professional Project Requirement Analyst, Business Analyst, and Software Development Consultant with an illustrious career spanning over 8 years. I have demonstrated exceptional proficiency in team management, software development documentation, and project execution. 
+🖐 Hi, everyone! I'm a professional developer with more than 5+ years of experience in software development. If you need the best React, Next.js, Node.js, and Express.js developer for your projects, I will help you with this and become your reliable partner. I have extensive knowledge and experience in full-stack development, using React and Next.js on the front end, and Node.js and Express.js on the back end, which allows me to create clean and easily maintainable code that meets the best standards.
 
-A good team player and always conscious to bring quality to the deliverable and ahead to improve the processes. 
-Expertise in business process understanding, Requirements Analysis, Process improvement, tasks and team management, developing and maintaining Project Plans, overall testing and quality assurance initiatives. 
+𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+🔹React.js
+🔹Next.js
+🔹TypeScript
+🔹Redux
+🔹Restful API
+🔹HTML 5
+🔹CSS3
+🔹SCSS
+🔹Bootstrap
+🔹Material UI
+🔹Tailwind CSS
+🔹Rizz UI
+🔹Shadcn UI
 
-Worked in the capacity of Project Manager and Business Analyst in different teams and managed sprints, Project schedule, Release activities and facilitated scrum events. Earlier worked as a Software Engineer and has extensive experience in Python, Node JS, PHP, Angular, React.JS, functional, regression, system, integration, load & performance testing.
+𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+🔹Node.js
+🔹Nest.js
+🔹Nuxt.js
+🔹Express.js
+🔹SQL
+🔹MongoDB
+🔹PostgreSQL
+🔹Supabase
+🔹Firebase
+🔹Amazon Web Services
+🔹Heroku
+🔹Ant Design
+🔹Azure
+🔹Docker
+🔹JWT
 
-## Toolbox 🧰
-<img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/asana.png" alt="Asana" width="50" height="50"/><img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/jira.png" alt="Jira" width="50" height="50"/><img src="https://github.com/aamirshehzad33/aamirshehzad33/blob/master/icons/trello.png" alt="Trello" width="50" height="50"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/notion.png" alt="notion"/>
-<img width="50" height="50" src="https://img.icons8.com/office/50/doughnut-chart--v1.png" alt="LucidChart"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/microsoft-visio.png" alt="microsoft-visio"/><img width="50" height="50" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="php"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="Mongodb"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-regular-tal-revivo.png" alt="Django"/><img width="48" height="48" src="https://img.icons8.com/color/48/slack.png" alt="slack"/><img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/zoom.png" alt="zoom"/>
+𝐌𝐲 𝐚𝐝𝐯𝐚𝐧𝐭𝐚𝐠𝐞𝐬:
+𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒆𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆
+I have deep knowledge of web technologies and I am able to create modern and effective web projects.
+I am development-oriented, always learning new technologies and practices to keep up with the latest trends.
 
+𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒘𝒊𝒕𝒉 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒕 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒔𝒕𝒂𝒄𝒌𝒔:
+I have experience with various frameworks and libraries such as React.js, Next, Nest, Node.js, and others.
+I have an understanding of server-side and client-side development.
 
-### Professional Experience:
-- **Project Management Tools:** [Jira, Asana, Notion, ClickUp, Trello, 37Signals]
-- **Diagrammic Tools:** [Visio, Lucidchart, Draw.io, Visual Paradigm]
-- **Team collaboration Tools:** [Slack, Microsoft Teams, Zoom]
-- **Programming Languages:** [Python, JavaScript, PHP]
-- **Database:** [MySQL, MongoDB]
-- **Frameworks:** [React, Django, Laravel, CodeIgniter, Nest JS]
-- **Version Control:** [Github, Gitlab, Bitbucket]
-- **Cloud Technologies:** [AWS, Azure, Hostinger]
-- **Other Tools:** [Mirosoft Word, Excel]
+𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒐𝒇 𝒘𝒆𝒃 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆:
+I understand the principles of web application architecture, including distributed systems, databases, and performance optimization.
 
-### Highlights:
-- 💼 **Project Manager & Product Owner:** Led dynamic project teams, overseeing the entire project lifecycle from requirements analysis to successful product delivery. Proficient in Agile methodologies, served as a Scrum Master, ensuring efficient and collaborative development processes.
-- 🚀 **Business Analysis Specialist:** Demonstrated expertise in business analysis, playing a crucial role in shaping successful projects. Utilized advanced analytical skills to identify and document requirements, ensuring alignment with business objectives.
-- 🌐 **Software Engineer:** Started my career as a web developer. After gaining three years of development experience, I was promoted to project management. I  worked in the e-commerce, fintech, medical, clinical industry.
+𝑼𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅𝒊𝒏𝒈 𝒐𝒇 𝒅𝒆𝒔𝒊𝒈𝒏 𝒂𝒏𝒅 𝑼𝑿/𝑼𝑰:
+I understand the importance of good design and user experience in website development and can collaborate with designers to achieve optimal results.
 
+𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏:
+I am able to communicate effectively with the team and clients, clearly expressing ideas and listening to requirements.
 
-### Certifications:
-- 🏆 Fundamentals of Agile Project Management
-- 🏆 Fundamentals of Predictive Project Management
-- 🏆 Certified Business Analyst Coursera
+𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆:
+I can point to specific projects I've worked on and share my contributions and achievements.
 
+𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒂𝒏𝒅 𝒂𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒂𝒍 𝒔𝒌𝒊𝒍𝒍𝒔:
+I have a high level of analytical thinking and am able to quickly solve problems that may arise during development.
 
-Feel free to explore my repositories to witness these technologies in action!
+𝑨𝒄𝒕𝒊𝒗𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒔𝒆𝒍𝒇-𝒅𝒊𝒓𝒆𝒄𝒕𝒊𝒐𝒏:
+I follow industry developments and learn new technologies and tools on my own.
 
-**Note; If you have any inquiries or would like to get in touch, please feel free to reach me at aaamirshehzad.7033@gmail.com. I look forward to hearing from you!**
+✨ If you like my profile and are ready for constructive cooperation, I will be happy to discuss projects that we can organize to ensure your success. Contact me and I will help you with any questions you may have.
