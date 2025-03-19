@@ -6,15 +6,40 @@
 
 Frontend Development
 
-🔹 React.js🔹 Next.js🔹 Vue.js🔹 TypeScript🔹 Redux🔹 RESTful API🔹 HTML5 & CSS3🔹 SCSS & Bootstrap🔹 Material UI🔹 Tailwind CSS🔹 Rizz UI & Shadcn UI
+🔹 React.js
+🔹 Next.js
+🔹 Vue.js
+🔹 TypeScript
+🔹 Redux
+🔹 RESTful API
+🔹 HTML5 & CSS3
+🔹 SCSS & Bootstrap
+🔹 Material UI
+🔹 Tailwind CSS
+🔹 Rizz UI & Shadcn UI
 
 Backend Development
 
-🔹 Node.js🔹 Nest.js🔹 Nuxt.js🔹 Express.js🔹 SQL, MongoDB & PostgreSQL🔹 Supabase & Firebase🔹 Amazon Web Services (AWS)🔹 Azure & Docker🔹 JWT Authentication🔹 Heroku & Ant Design
+🔹 Node.js
+🔹 Nest.js
+🔹 Nuxt.js
+🔹 Express.js
+🔹 SQL, MongoDB & PostgreSQL
+🔹 Supabase & Firebase
+🔹 Amazon Web Services (AWS)
+🔹 Azure & Docker
+🔹 JWT Authentication
+🔹 Heroku & Ant Design
 
 🌟 Why Work With Me?
 
-✅ Technical Excellence – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions.✅ Full-Stack Development – Experience in both frontend and backend, creating seamless web applications.✅ Modern Web Architecture – Strong understanding of distributed systems, databases, and performance optimization.✅ User-Centric Approach – Prioritizing UI/UX to create intuitive and engaging applications.✅ Problem-Solving & Analytical Skills – Quick and effective resolution of development challenges.✅ Professional Communication – Clear and efficient collaboration with teams and clients.✅ Continuous Learning – Staying ahead with the latest tech trends and best practices.
+✅ Technical Excellence – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions.
+✅ Full-Stack Development – Experience in both frontend and backend, creating seamless web applications.
+✅ Modern Web Architecture – Strong understanding of distributed systems, databases, and performance optimization.
+✅ User-Centric Approach – Prioritizing UI/UX to create intuitive and engaging applications.
+✅ Problem-Solving & Analytical Skills – Quick and effective resolution of development challenges.
+✅ Professional Communication – Clear and efficient collaboration with teams and clients.
+✅ Continuous Learning – Staying ahead with the latest tech trends and best practices.
 
 💡 Let's Collaborate!
 
