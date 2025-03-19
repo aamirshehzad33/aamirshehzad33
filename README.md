@@ -33,13 +33,13 @@
 
 # 🌟 Why Work With Me?
 
-✅ Technical Excellence – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions. <br>
-✅ Full-Stack Development – Experience in both frontend and backend, creating seamless web applications. <br>
-✅ Modern Web Architecture – Strong understanding of distributed systems, databases, and performance optimization. <br>
-✅ User-Centric Approach – Prioritizing UI/UX to create intuitive and engaging applications. <br>
-✅ Problem-Solving & Analytical Skills – Quick and effective resolution of development challenges. <br>
-✅ Professional Communication – Clear and efficient collaboration with teams and clients. <br>
-✅ Continuous Learning – Staying ahead with the latest tech trends and best practices.
+✅ **Technical Excellence** – Deep expertise in web technologies, ensuring clean, efficient, and scalable solutions. <br>
+✅ **Full-Stack Development** – Experience in both frontend and backend, creating seamless web applications. <br>
+✅ **Modern Web Architecture** – Strong understanding of distributed systems, databases, and performance optimization. <br>
+✅ **User-Centric Approach** – Prioritizing UI/UX to create intuitive and engaging applications. <br>
+✅ **Problem-Solving & Analytical Skills** – Quick and effective resolution of development challenges. <br>
+✅ **Professional Communication** – Clear and efficient collaboration with teams and clients. <br>
+✅ **Continuous Learning** – Staying ahead with the latest tech trends and best practices.
 
 # 💡 Let's Collaborate!
 
