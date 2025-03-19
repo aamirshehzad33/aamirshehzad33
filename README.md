@@ -1,13 +1,14 @@
 🚀 React.js | Next.js | Vue.js | Node.js Developer | Business Analysis Expert
 
-🖐 Hi, everyone! I'm a professional full-stack developer with 5+ years of experience in software development. If you're looking for a skilled React, Next.js, Node.js, and Express.js developer, I'm here to help! I specialize in building modern, scalable, and maintainable web applications, ensuring high-quality code that follows best industry practices.
+🖐 Hi, everyone! I'm a professional full-stack developer with **5+ years of experience** in software development. If you're looking for a skilled **React**, **Next.js**, **Node.js**, and **Express.js developer**, I'm here to help! I specialize in building modern, scalable, and maintainable web applications, ensuring high-quality code that follows best industry practices.
 
-🛠 Tech Stack & Expertise
+
+🛠 ****Tech Stack & Expertise****
+
 
 # Frontend Development
 
-🔹 React.js <br>
-🔹 Next.js <br>
+🔹 React.js  <br>   🔹 Next.js <br>
 🔹 Vue.js <br>
 🔹 TypeScript <br>
 🔹 Redux <br>
